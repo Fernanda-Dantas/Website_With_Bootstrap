@@ -1,0 +1,32 @@
+body {
+  font: 20px Arial, sans-serif;
+}
+.navbar {
+  background-image: linear-gradient(to top, #0ba360 0%, #3cba92 100%);
+}
+
+.navbar-brand {
+  padding-left: 10px;
+}
+
+.quem-somos {
+  background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+}
+
+.produtos {
+  background-image: linear-gradient(to top, #9be15d 0%, #00e3ae 100%);
+}
+.contato {
+  background-image: linear-gradient(to top, #0fd850 0%, #f9f047 100%);
+}
+
+.margin {
+  padding-bottom: 50px;
+  padding-top: 10px;
+}
+
+.rodape {
+  background: linear-gradient(to bottom, #323232 0%, #3F3F3F 40%, #1C1C1C 150%), linear-gradient(to top, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.25) 200%);
+  background-blend-mode: multiply;
+  color: white;
+}
